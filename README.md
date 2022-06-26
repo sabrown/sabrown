@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Engineering, Science (Space in particular), and Data Engineering.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on learning Python for Data Engineering tasks.
-- 📫 email me at sbrown@brn5ite.com
+- 📫 
 
 <!---
 sabrown/sabrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
