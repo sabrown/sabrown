@@ -20,7 +20,7 @@ As **Director of Digital Innovation at Polaris Automation**, I build the governa
 
 My work runs on three pillars:
 
-- **AI & Data Intelligence** — moving beyond intuition to data-validated decision-making, with proper governance built before deployment, not retrofitted after
+- **AI & Data Intelligence** — moving beyond intuition to data-validated decision-making, with proper governance built before deployment, not retrofitted after "Governance enables speed"
 - **IT/OT Convergence** — designing the Unified Namespace (UNS) and semantic layers that make smart manufacturing actually work
 - **Cybersecurity** — ensuring every digital leap is grounded in operational stability and defensible risk management
 
