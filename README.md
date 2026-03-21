@@ -8,60 +8,66 @@
 
 ## Substance over hype. Plant floor over pitch deck.
 
-**IT/OT Architecture · Industrial AI Governance · OT Cybersecurity · Digital Transformation**
+**IT/OT Architecture · Industrial AI Governance · Smart Manufacturing · OT Cybersecurity**
 
 ---
 
 ### About
 
-I work in the high-friction zone where industrial operations meet digital strategy — where AI vendors make promises and plant floors have to live with the results. My focus has always been on what actually delivers measurable outcomes, not what demos well at a conference.
+I work in the high-friction zone where industrial operations meet digital strategy — where AI and Data vendors make promises and plant floors have to live with the results.
 
-As **Director of Digital Innovation at Polaris Automation**, I build the governance frameworks, reference architectures, and strategic operating models that let manufacturers capture real value from AI and data convergence. I use AI daily as a thinking partner — not as a novelty — and I believe the most important question before any digital initiative isn't *"Can we?"* but *"Should we, and what happens when it's wrong?"*
+As **Director of Digital Innovation at Polaris Automation**, I build the governance frameworks, IT/OT reference architectures, and operating models that help manufacturers capture real value from AI and data convergence. My operating stance is Direction and Enablement: set strategic direction, govern risk, own the *why* — and build partner ecosystems that handle the *how*. Technical enough to govern the work. Experienced enough to know when not to do it myself.
 
-My work runs on three pillars:
-
-- **AI & Data Intelligence** — moving beyond intuition to data-validated decision-making, with proper governance built before deployment, not retrofitted after sonething goes wrong. _"Governance enables speed"_
-- **IT/OT Convergence** — designing the Unified Namespace (UNS) and semantic layers that make smart manufacturing actually work
-- **Cybersecurity** — ensuring every digital leap is grounded in operational stability and defensible risk management
-
-Thirty-plus years in manufacturing technology. Long enough to have seen every wave of "innovation" arrive and recede. The ones that stick respect the realities of the plant floor.
+Thirty-plus years in manufacturing technology — from pharmaceutical clean rooms and GxP-validated data platforms to industrial automation and AI governance. I've seen every wave of "innovation" arrive. The ones that stick respect the realities of the plant floor.
 
 ---
 
-### 🔭 What I'm Building at Polaris
+### 🔭 What I'm Working On
 
-A 3-phase digital foundation for an industrial automation company:
+At Polaris Automation, building the digital innovation function from the ground up: AI governance frameworks, IT/OT reference architectures, semantic data layers for manufacturing, and the operating models that let industrial companies capture real value from AI without the vendor hype.
 
-| Phase | Focus | Status |
-|-------|-------|--------|
-| **1 — The Architectural Wedge** | Chordata MCP Server — making our platform AI-queryable via a standardized interface | 🔄 In Progress |
-| **2 — The Semantic Foundation** | Manufacturing Semantic Layer — translating PLC-speak into business-consumable data | ⚪ Planned |
-| **3 — The Revenue Accelerator** | Predictive OEE & Bottleneck Forecasting modules for Chordata | ⚪ Planned |
-
-Active client engagements: Johnson & Johnson · NDS · PPG Rock Hill
+Current focus areas: Model Context Protocol (MCP) for industrial data platforms, Unified Namespace architecture, OT cybersecurity governance, and AI readiness assessment methodology.
 
 ---
 
-### 🧠 Focus Areas
+### 🧠 Domain Expertise
 
 | Domain | What I Do With It |
 |--------|-------------------|
-| **IT/OT Architecture** | Reference architectures, iDMZ design, Purdue model evolution, network segmentation for industrial environments |
+| **IT/OT Architecture** | Reference architectures, iDMZ design, Purdue model, network segmentation |
 | **Industrial AI Governance** | AI Acceptable Use policy, readiness frameworks, risk guardrails, value realization measurement |
-| **Unified Namespace (UNS)** | Architecture strategy, semantic layer development, PLC-to-business data contextualization |
-| **OT Cybersecurity** | Zero trust for OT, CISO engagement, Claroty and Elisity governance |
-| **Model Context Protocol (MCP)** | MCP server strategy as the AI-queryable data layer for industrial platforms |
-| **Information Modeling** | CESMII / SMIP / OPC UA standards — treating information modeling as a durable business capability |
-| **AI Platform Governance** | Platform selection, org-wide policy deployment, AI Acceptable Use frameworks |
+| **Unified Namespace (UNS)** | Architecture strategy, semantic layer development, PLC-to-business contextualization |
+| **OT Cybersecurity** | Zero trust for OT, iDMZ design, network segmentation for industrial environments |
+| **Smart Manufacturing** | Kepware, SCADA, MQTT, Rockwell, Siemens — OT systems integration at scale |
+| **Data Platforms** | Snowflake, TetraScience, SAP ATTP, cloud data pipelines, real-time streaming |
+| **Information Modeling** | CESMII / SMIP / OPC UA — treating information models as durable business assets |
+| **Regulated Manufacturing** | 21 CFR Part 11, DSCSA, GxP-compliant data architecture |
 
 ---
 
 ### 📈 Currently Building Toward
 
-- **CESMII information modeling certification** — formalizing Information Modeling as a named, billable Polaris service offering
-- **Industrial AI Readiness & Governance Framework** — a 4-pillar methodology (Data Integrity · Risk Guardrails · Human-in-the-Loop · Value Realization) for manufacturers asking *"Are we actually ready for AI?"*
-- **UNS methodology** — a replicable, standards-aligned approach across manufacturing verticals
-- **AI Fluency program** — building AI capability across an engineering workforce using the Right Brain Labs Compass framework
+- **CESMII information modeling** — developing standards-based information modeling as a manufacturing services capability
+- **Industrial AI readiness methodology** — frameworks for assessing whether manufacturers are actually ready for AI, and what has to change before they are
+- **UNS methodology** — replicable, standards-aligned approach to Unified Namespace architecture across manufacturing verticals
+
+---
+
+### 🏆 Selected Prior Work
+
+- **Laboratory Data Platform** — Integrated 50+ instruments and 19 bioreactors into data pipelines (via TetraScience) across GMP and non-GMP facilities
+- **Global Serialization Platform** — Led design through validation of 9-site global pharmaceutical track-and-trace rollout covering multiple national regulatory environments
+- **Smart Factory CIP System** — Developed and commissioned plant-wide system for $270M nutritional products facility using Rockwell FactoryTalk Batch
+- **Snowflake Performance** — Dashboard optimizations delivering 60% reduction in query execution time
+
+---
+
+### 📜 Credentials
+
+- Stanford Machine Learning Certification (Deeplearning.AI)
+- Published researcher — IEEE and SPIE (photovoltaic systems)
+- Purdue Model and Converged Plantwide Ethernet
+- 21 CFR Part 11 · DSCSA · FMD compliance
 
 ---
 
